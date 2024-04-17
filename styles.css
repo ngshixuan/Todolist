@@ -1,0 +1,19 @@
+body{
+    background: rgb(104, 65, 167);
+}
+
+.container{
+    max-width: 400px !important;
+}
+
+.delete{
+    cursor: pointer;
+}
+
+input[type="text"]{
+    color: black;
+}
+
+.filtered{
+    display: none !important;
+}
